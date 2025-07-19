@@ -10,6 +10,6 @@ Or use the /villager reset command.
 
 # Minecraft Server Version
 
-**The version I tested and got healthy results is version 1.20.4, I don't know about the suitability of other versions because I haven't tried other versions.
+The version I tested and got healthy results is version 1.20.4, I don't know about the suitability of other versions because I haven't tried other versions.
 
-Plugin continues to be developed.**
+Plugin continues to be developed.
