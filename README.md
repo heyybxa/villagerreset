@@ -7,3 +7,9 @@ In Minecraft, when you right-click on the villagers who are given a profession a
 Look at the peasant whose profession has not been reset and apply the Shift + Right Click combination. The villagers will return to normal.
 
 Or use the /villager reset command.
+
+# Minecraft Server Version
+
+**The version I tested and got healthy results is version 1.20.4, I don't know about the suitability of other versions because I haven't tried other versions.
+
+Plugin continues to be developed.**
