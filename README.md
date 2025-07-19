@@ -10,8 +10,6 @@ Or use the /villager reset command.
 
 ## 🔐 Permits
 
-| Permission | Description | Default |
-|------|------|----------|------------|
 | `villagerprofessionreset.use` | Basic usage permission | `true` |
 | `villagerprofessionreset.admin` | Administrator permissions | `op` |
 
